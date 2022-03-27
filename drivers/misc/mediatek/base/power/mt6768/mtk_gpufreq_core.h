@@ -54,15 +54,15 @@
 #define SEG_GPU_DVFS_FREQ34			(315000)	/* KHz */
 #define SEG_GPU_DVFS_FREQ35			(299000)	/* KHz */
 
-#define SEG_GPU_DVFS_VOLT0		(95000)		/* mV x 100 */
-#define SEG_GPU_DVFS_VOLT1		(94000)		/* mV x 100 */
+#define SEG_GPU_DVFS_VOLT0		(97000)		/* mV x 100 */
+#define SEG_GPU_DVFS_VOLT1		(95500)		/* mV x 100 */
 #define SEG_GPU_DVFS_VOLT2		(93000)		/* mV x 100 */
 #define SEG_GPU_DVFS_VOLT3		(90500)		/* mV x 100 */
-#define SEG_GPU_DVFS_VOLT4		(88000)		/* mV x 100 */
-#define SEG_GPU_DVFS_VOLT5		(88000)		/* mV x 100 */
-#define SEG_GPU_DVFS_VOLT6		(83500)		/* mV x 100 */
-#define SEG_GPU_DVFS_VOLT7		(81500)		/* mV x 100 */
-#define SEG_GPU_DVFS_VOLT8		(79000)		/* mV x 100 */
+#define SEG_GPU_DVFS_VOLT4		(89000)		/* mV x 100 */
+#define SEG_GPU_DVFS_VOLT5		(88500)		/* mV x 100 */
+#define SEG_GPU_DVFS_VOLT6		(84000)		/* mV x 100 */
+#define SEG_GPU_DVFS_VOLT7		(82000)		/* mV x 100 */
+#define SEG_GPU_DVFS_VOLT8		(79500)		/* mV x 100 */
 #define SEG_GPU_DVFS_VOLT9		(77000)		/* mV x 100 */
 #define SEG_GPU_DVFS_VOLT10		(74500)		/* mV x 100 */
 #define SEG_GPU_DVFS_VOLT11		(74375)		/* mV x 100 */
@@ -91,12 +91,12 @@
 #define SEG_GPU_DVFS_VOLT34		(56875)		/* mV x 100 */
 #define SEG_GPU_DVFS_VOLT35		(56250)		/* mV x 100 */
 
-#define SEG_GPU_DVFS_VSRAM0		(108000)	/* mV x 100 */
-#define SEG_GPU_DVFS_VSRAM1		(106000)	/* mV x 100 */
-#define SEG_GPU_DVFS_VSRAM2		(104000)	/* mV x 100 */
-#define SEG_GPU_DVFS_VSRAM3		(103000)	/* mV x 100 */
-#define SEG_GPU_DVFS_VSRAM4		(102000)	/* mV x 100 */
-#define SEG_GPU_DVFS_VSRAM5		(101000)	/* mV x 100 */
+#define SEG_GPU_DVFS_VSRAM0		(113000)	/* mV x 100 */
+#define SEG_GPU_DVFS_VSRAM1		(110500)	/* mV x 100 */
+#define SEG_GPU_DVFS_VSRAM2		(108000)	/* mV x 100 */
+#define SEG_GPU_DVFS_VSRAM3		(105500)	/* mV x 100 */
+#define SEG_GPU_DVFS_VSRAM4		(103000)	/* mV x 100 */
+#define SEG_GPU_DVFS_VSRAM5		(101500)	/* mV x 100 */
 #define SEG_GPU_DVFS_VSRAM6		(99000) 	/* mV x 100 */
 #define SEG_GPU_DVFS_VSRAM7		(96500)		/* mV x 100 */
 #define SEG_GPU_DVFS_VSRAM8		(94000)		/* mV x 100 */
