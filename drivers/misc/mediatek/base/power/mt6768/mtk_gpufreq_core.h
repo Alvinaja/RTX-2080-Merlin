@@ -91,12 +91,12 @@
 #define SEG_GPU_DVFS_VOLT34		(56875)		/* mV x 100 */
 #define SEG_GPU_DVFS_VOLT35		(56250)		/* mV x 100 */
 
-#define SEG_GPU_DVFS_VSRAM0		(113000)	/* mV x 100 */
-#define SEG_GPU_DVFS_VSRAM1		(110500)	/* mV x 100 */
-#define SEG_GPU_DVFS_VSRAM2		(108000)	/* mV x 100 */
-#define SEG_GPU_DVFS_VSRAM3		(105500)	/* mV x 100 */
-#define SEG_GPU_DVFS_VSRAM4		(103000)	/* mV x 100 */
-#define SEG_GPU_DVFS_VSRAM5		(101500)	/* mV x 100 */
+#define SEG_GPU_DVFS_VSRAM0		(110000)	/* mV x 100 */
+#define SEG_GPU_DVFS_VSRAM1		(108000)	/* mV x 100 */
+#define SEG_GPU_DVFS_VSRAM2		(106000)	/* mV x 100 */
+#define SEG_GPU_DVFS_VSRAM3		(104000)	/* mV x 100 */
+#define SEG_GPU_DVFS_VSRAM4		(102000)	/* mV x 100 */
+#define SEG_GPU_DVFS_VSRAM5		(101000)	/* mV x 100 */
 #define SEG_GPU_DVFS_VSRAM6		(99000) 	/* mV x 100 */
 #define SEG_GPU_DVFS_VSRAM7		(96500)		/* mV x 100 */
 #define SEG_GPU_DVFS_VSRAM8		(94000)		/* mV x 100 */
